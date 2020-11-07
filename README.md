@@ -1,6 +1,6 @@
 # Trial-web-scraping-project
 + Web scraping project 
-+ Data for Mrecedes-Benz SLR used car ads on autoscout.de were scraped
++ Data for Mrecedes-Benz SLR used car listings on autoscout.de were scraped
 + Data exported in .csv format
 
 **Packages used**: beautifulsoup, pandas, requests
@@ -8,7 +8,7 @@
 **Webpage scraped**: autoscout24.com 
 
 ## Data scraping 
-With each car ad we got following data:
+With each car listing we got following data:
 + Model
 + Title
 + Price
